@@ -1,6 +1,3 @@
-# helloworld
-for testing
-
-
-hahahaha
+# Learning
+This is a learning project.
 
